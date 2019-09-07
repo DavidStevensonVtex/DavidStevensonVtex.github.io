@@ -19,7 +19,6 @@ I am interested in C# and the latest features.
     {% endfor %}
 </ul>
 
-https://davidstevensonvtex.github.io/HelloWorld2/
 <ul>
     <li><a href="https://davidstevensonvtex.github.io/HelloWorld2/">Hello World Project</a></li>
 </ul>
